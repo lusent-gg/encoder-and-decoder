@@ -1,0 +1,14 @@
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.AssemblyInfoInputs.cache
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.AssemblyInfo.cs
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.csproj.CoreCompileInputs.cache
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\bin\Debug\net8.0\encoder and decoder.exe
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\bin\Debug\net8.0\encoder and decoder.deps.json
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\bin\Debug\net8.0\encoder and decoder.runtimeconfig.json
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\bin\Debug\net8.0\encoder and decoder.dll
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\bin\Debug\net8.0\encoder and decoder.pdb
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.dll
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\refint\encoder and decoder.dll
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.pdb
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\encoder and decoder.genruntimeconfig.cache
+C:\Users\ariya rayaneh\source\repos\encoder and decoder\encoder and decoder\obj\Debug\net8.0\ref\encoder and decoder.dll
